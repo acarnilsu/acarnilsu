@@ -21,7 +21,6 @@
  </p>
 
   
-<div  align="center"> <img src="https://github.com/acarnilsu/acarnilsu/blob/output/github-contribution-grid-snake.svg" /></div>
 
 
 
